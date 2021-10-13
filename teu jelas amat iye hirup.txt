@@ -1,7 +1,7 @@
 BELAJAR : 
 JAVA : Java Spring Boot
 PHP : Codeigniter
-JS : VueJS, dan ReactJS
+JS : VueJS, dan ReactJS TypeScript
 Java Hibernate
 
 BELAJAR DATABASE BESERTA KONEKSINYA
