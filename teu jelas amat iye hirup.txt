@@ -1,9 +1,10 @@
 BELAJAR : 
 Python
 PHP : Codeigniter
-mencoba
+Mencoba :
 FLutter
 Angular
+Dan :
 JS : VueJS, dan ReactJS TypeScript
 
 BELAJAR DATABASE BESERTA KONEKSINYA
