@@ -1,5 +1,5 @@
 BELAJAR : 
-JAVA : Java Spring Boot
+Python
 PHP : Codeigniter
 JS : VueJS, dan ReactJS
 FLutter
