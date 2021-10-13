@@ -1,0 +1,4 @@
+BELAJAR : 
+JAVA : Java Spring Boot
+PHP : Codeigniter
+JS : VueJS, dan ReactJS
