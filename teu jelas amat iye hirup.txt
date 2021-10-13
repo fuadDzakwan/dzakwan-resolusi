@@ -2,10 +2,11 @@ BELAJAR :
 JAVA : Java Spring Boot
 PHP : Codeigniter
 JS : VueJS, dan ReactJS
-
+Java Hibernate
 
 BELAJAR DATABASE BESERTA KONEKSINYA
 1. MySQL
 2. DB2
 3. DBeaver
 4. SQLdbx
+5. ODBC
