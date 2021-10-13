@@ -2,6 +2,8 @@ BELAJAR :
 JAVA : Java Spring Boot
 PHP : Codeigniter
 JS : VueJS, dan ReactJS
+FLutter
+Angular
 
 
 BELAJAR DATABASE BESERTA KONEKSINYA
@@ -9,3 +11,5 @@ BELAJAR DATABASE BESERTA KONEKSINYA
 2. DB2
 3. DBeaver
 4. SQLdbx
+5. WinSCP
+6. Putty
