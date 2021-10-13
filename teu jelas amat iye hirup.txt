@@ -1,4 +1,4 @@
 BELAJAR : 
-JAVA
-PHP
-JS
+JAVA : Java Spring Boot
+PHP : Codeigniter
+JS : VueJS, dan ReactJS
