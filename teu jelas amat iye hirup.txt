@@ -1,15 +1,14 @@
 BELAJAR : 
 Python
 PHP : Codeigniter
-JS : VueJS, dan ReactJS
+mencoba
 FLutter
 Angular
-
+JS : VueJS, dan ReactJS TypeScript
 
 BELAJAR DATABASE BESERTA KONEKSINYA
-1. MySQL
 2. DB2
 3. DBeaver
 4. SQLdbx
 5. WinSCP
-6. Putty
+
